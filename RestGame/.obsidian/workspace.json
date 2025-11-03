@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Papyrus.md",
+                "file": "Untitled/Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papyrus"
+              "title": "Science"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Papyrus.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Papyrus"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +187,12 @@
   },
   "active": "a0c32ad57f3fb477",
   "lastOpenFiles": [
-    "TO DO.md",
     "Untitled/Papyrus.md",
+    "Untitled/LittleSnas.md",
+    "Untitled.md",
+    "TO DO.md",
     "Untitled/Swap Sans.md",
     "Untitled/Snas.md",
-    "Untitled/LittleSnas.md",
     "Untitled/Science.md",
     "Untitled/Insanity Sans.md",
     "2025-06-16.md",

@@ -5,7 +5,7 @@ Dodge : yes
 	white bone : nothing to say about 
 	dark blue bone : when it touch a player the player freeze for 0.5 sec
 	red bone : explode on impact with anything (sans included and it will damage sans)
-reminder you need to fix blue bone not hitting when you stand still
+
 - [x] Blaster : Spawn 2 Blaster that fire justice bullet very quickly for 3 sec (1 chance out of 4 that the blaster explode (the explosion will damage sans))
 
 - [x] Bomb : spawn 5 bomb from the sky that will fal 
@@ -24,10 +24,13 @@ Potion : you can create a potion
 
 Upgrade 1:
 	Passive : bots that fall from the sky launch around small bomb 
+
 Upgrade 2:
 	Blaster : the bullet now bounce once
+
 Upgrade 3:
 	Proto Blaster : a huge blaster shoot a beam that stop start back before falling apart
+
 Upgrade 4:
 	turret a third blaster spawn and will target the closet player to sans
 
