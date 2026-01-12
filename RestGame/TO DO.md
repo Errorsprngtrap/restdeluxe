@@ -20,4 +20,5 @@
 - [ ] uf frisk
 - [ ] frisk
 - [ ] storyspin
+- [ ] cotv
 - [ ] optimisation
