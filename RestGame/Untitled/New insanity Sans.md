@@ -59,7 +59,7 @@ Attack 2: Guts Punch :
 
 	Rabit mode : Bite : This move become a bite sans launch foward and bite every chara infront of him
 
-Attack 3 : Rock Fall :
+Attack 3 : Rocks Fall :
 	Summon a bone toa  random place in the map taht will smash the roof making heavy rock fall verywhere for 10 sec if a rock it the chara they get stun for 1 sec and theyre screen get blurry for 2 sec if the rock fall on the floor it explode in smaller rock that do small damage
 	
 	Rabit mode : Rock throw : Grab a huge rock and send it on your opponent 
