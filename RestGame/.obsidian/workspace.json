@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/New insanity Sans.md",
+                "file": "Untitled/Disttrust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New insanity Sans"
+              "title": "Disttrust"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/New insanity Sans.md",
+                "file": "Untitled/Disttrust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour New insanity Sans"
+              "title": "Rétrolien pour Disttrust"
             }
           },
           {
@@ -171,10 +171,11 @@
   },
   "active": "73e675dc7b289f96",
   "lastOpenFiles": [
-    "Untitled/Insanity Sans.md",
-    "Untitled/LittleSnas.md",
     "Untitled/New insanity Sans.md",
+    "Untitled/Disttrust.md",
+    "Untitled/Insanity Sans.md",
     "TO DO.md",
+    "Untitled/LittleSnas.md",
     "Untitled.md",
     "Untitled/Science.md",
     "Untitled/Papyrus.md",
