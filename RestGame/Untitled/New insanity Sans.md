@@ -69,3 +69,8 @@ Attack 4 : Teleport :
 	
 	rabit mode : brutal tp : Same as before but instead if someone is too close to where you teleport (by taht its like a few stud around you and the warnign where you click how the range of impact) a blaster will grab them smash on the ground and blast 
 
+Attack 5 :Blaster :
+	triple the blast : summon up to tree blaster in chain that will fire where you clcik before aiming at a random chara
+	
+Attack 6: Blue :
+	Dash foward and grab any chara in the path turning theyre soul blue smashing them on the ground and making 3 bone fall on them (your stun a=until the bone touch ya and only the bone of said attack can damage ya until you can get up)
