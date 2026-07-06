@@ -4,21 +4,19 @@
 - [ ] maybe papyrus
 - [ ] science + skins
 - [ ] us sans + skins
-- [ ] negatale sans
 - [ ] sans + skins
 - [ ] us paps + skins
 - [ ] fell + skins
 - [ ] ss chara 
-- [ ] insanity 
-- [ ] distrust
+- [ ] distrust -- soon
 - [ ] disbeef
-- [ ] hardtale sans
 - [ ] epic
-- [ ] after
-- [ ] jacko 
-- [ ] santa
+- [ ] after -- after 
 - [ ] uf frisk
 - [ ] frisk
 - [ ] storyspin
-- [ ] cotv
+- [ ] cotv -- soon
 - [ ] optimisation
+- [ ] error
+- [ ] possesion
+- [ ] gaster
