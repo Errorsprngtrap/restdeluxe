@@ -1,20 +1,40 @@
 
-
 Phase 1 :
 Stamina 120
 Dodge Yes
 
-Bonerush :
-	 bonerush with a few blue bone (blue bone do more damage then classic bone)
+Passive : 
 
-Blaster :
-	spawn a single medium blaster
+Attacks:
+idea :
+1. [ ] 
 
-Bonezone : 
-	spawn a small bonezone very quickly before dissapearing 
+Final:
+Just a reproduction of sans Strongest attack (would be disabled when phase 2 get unlocked)
 
-Platform blast :
-	Spawn platform that come and leave while they get blast
+Upgrades:
+2. [ ] 
+--------------------------------------------------------------------------
+Phase 2:
+Stamina 120
+Dodge Yes
 
-Force
+Passive : 
+Auto Attack : as long as you have stamina bone will spawn around the map 
+
+Attacks:
+idea :
+Box attack : could ahve a mode that his more automatic and a mode where during the box attack teh sans select by pressing button how the box attack goes 
+
+https://youtu.be/Tuzq3mWTFB0?si=aJEp8pIujrW1Mxt7
+1:00  - 1:25
+
+counter funny : 26:06 - 26:49 https://youtu.be/xPdpMf_E_Dc?si=YKRa0PG8Pzs0ly9q
+
+
+Pillar : you can use force to throw a pillar , would have for obvious reason limited use
+1. [ ] 
+
+Final :
+Normal ut sans final 
 
