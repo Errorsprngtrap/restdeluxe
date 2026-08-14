@@ -38,3 +38,4 @@ Pillar : you can use force to throw a pillar , would have for obvious reason lim
 Final :
 Normal ut sans final 
 
+qte uring final attack before the blaster circle you will get 5 time a press x key for eah time you press it right the circle will get +3 blaster in it
