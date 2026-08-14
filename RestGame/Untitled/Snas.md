@@ -38,3 +38,4 @@ Pillar : you can use force to throw a pillar , would have for obvious reason lim
 Final :
 Normal ut sans final 
 
+Bonerush can suummon extra boen in thesky that are fast but small and wills tick in the ground for like 5 sec thoose bone cannot kill just inflict kr
