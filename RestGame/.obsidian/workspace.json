@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Snas.md",
+                "file": "Untitled/Papyrus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snas"
+              "title": "Papyrus"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Snas.md",
+                "file": "Untitled/Papyrus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +188,7 @@
   },
   "active": "b422bdb34a54781e",
   "lastOpenFiles": [
+    "Untitled/Snas2.md",
     "Untitled/Snas.md",
     "Untitled/us papyrus.md",
     "Untitled/After.md",

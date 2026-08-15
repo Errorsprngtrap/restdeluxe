@@ -9,3 +9,7 @@
 - [ ] bone boom
       soul off : a warning appear a bit above where you click then explode releasing alot of small bone
       soul on : multiple huge bone smash where you click
+
+Pet rock : 
+
+homing ; the selected player will get targeted by the homing attack
