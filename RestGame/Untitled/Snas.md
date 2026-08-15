@@ -38,4 +38,4 @@ Pillar : you can use force to throw a pillar , would have for obvious reason lim
 Final :
 Normal ut sans final 
 
-Bonerush can suummon extra boen in thesky that are fast but small and wills tick in the ground for like 5 sec thoose bone cannot kill just inflict kr
+Bonerush can summon extra bones in the sky that are fast but small and will stick in the ground for like 5 sec; those bones cannot kill, just inflict kr. QTE during final attack before the blaster circle: you will get 5 chances to press X; for each correct press, the circle gets +3 blaster in it.
